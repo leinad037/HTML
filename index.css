@@ -1,0 +1,29 @@
+/* selectores css */
+/* selector universal*/
+* {
+    background-color:white;
+}
+/*selector de elemento*/
+h1 {
+    color: blue
+}
+h2 {
+    color: gray
+}
+/*selector multiple*/
+
+h3 {
+    color: brown
+}
+h6, h5 {
+    color: black
+}
+/*selector de hijo*/
+??????????????????????????
+/* selector de clase */
+.title {color: cadetblue;}
+/* selector por id*/
+#color { 
+    color: green
+}
+/*pseudoselectores*/
