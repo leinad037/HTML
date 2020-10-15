@@ -27,3 +27,11 @@ h6, h5 {
     color: green
 }
 /*pseudoselectores*/
+/* Pseudo elements*/
+ul {
+    list-style: none;
+}
+ol li::before {
+    color: green;
+}
+/*pseudo clase/*
