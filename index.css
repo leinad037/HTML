@@ -1,8 +1,8 @@
 /* selectores css */
 /* selector universal*/
-* {
+/* *{
     background-color:white;
-}
+} */
 /*selector de elemento*/
 h1 {
     color: blue
@@ -19,7 +19,9 @@ h6, h5 {
     color: black
 }
 /*selector de hijo*/
-??????????????????????????
+ol li ul {
+    color: rgb(247, 177, 0)
+}
 /* selector de clase */
 .title {color: cadetblue;}
 /* selector por id*/
